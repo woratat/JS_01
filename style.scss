@@ -1,0 +1,23 @@
+form{
+  input{
+    margin-bottom: 1rem;
+    border: rgb(126, 112, 216) 2px solid;
+    padding: 6px;
+    font-size: 18px;
+  }
+  ::placeholder{
+    color: rgb(181, 127, 243);
+  }
+}
+span{
+    color: red;
+}
+ul{
+  border: rgb(126, 112, 216) 2px solid;
+  padding: 18px;
+  li{
+    list-style-type: none;
+    font-size: 18px;
+    color: rgb(181, 127, 243);
+  }
+}

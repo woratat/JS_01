@@ -1,0 +1,38 @@
+form input {
+  margin-bottom: 1rem;
+  border: #7e70d8 2px solid;
+  padding: 6px;
+  font-size: 18px;
+}
+
+form ::-webkit-input-placeholder {
+  color: #b57ff3;
+}
+
+form :-ms-input-placeholder {
+  color: #b57ff3;
+}
+
+form ::-ms-input-placeholder {
+  color: #b57ff3;
+}
+
+form ::placeholder {
+  color: #b57ff3;
+}
+
+span {
+  color: red;
+}
+
+ul {
+  border: #7e70d8 2px solid;
+  padding: 18px;
+}
+
+ul li {
+  list-style-type: none;
+  font-size: 18px;
+  color: #b57ff3;
+}
+/*# sourceMappingURL=style.css.map */
